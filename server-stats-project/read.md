@@ -1,1 +1,0 @@
-This is a really simple script to display system information from a linux device. I tried to keep it free from many dependencies or third party tools to ensure compatibility across different linux distros and devices. 
